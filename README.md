@@ -17,7 +17,7 @@ But it is noticed that its hard to labeled the hero, villain, victim just by see
 For example, China is being mentioned in covid related memes because Covid was spread from China, one should know the context behind the meme to labelled China as a villain in the meme
 But already we have labelled data with hero, villain, victim and other tag along with the OCR of the images as you can see above
 
-Hence we continued with the textual data
+Hence we include only the textual data
 
 ## Results
 The dataset we have contains OCR image names and tags assigned to specific entities, such as heroes, villains, victims, and others.
